@@ -2,3 +2,6 @@
 
 ini adalah project pertama saya dengan Python
 wohooo
+
+
+yess
